@@ -6,7 +6,7 @@
 [![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UC15SdGXA3UGgXYcdixqmSiA)
 [![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://github.com/hasanmahmudul356)
 
-:wave: Hi there, My name is Maruf. I'm 26 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD as a Senior Software Engineer. I like to work with my team and love to share and gather knowledge. I have completed a degree of Bachelor of Science in Computer Science and Engineering from Green University of Bangladesh.
+:wave: Hi there, My name is Mahmudul Hasan. I'm 26 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD as a Senior Software Engineer. I like to work with my team and love to share and gather knowledge. I have completed a degree of Bachelor of Science in Computer Science and Engineering from Green University of Bangladesh.
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -30,14 +30,14 @@
 
 ##### **TMSS ICT Limited, Sr. Software Engineer**, 03/2019 - Present | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
-* Develop a payroll management system that reduced approximately 40% of human workload and decreased the possibility of human error. 
+* Develop a payroll management system that reduced approximately 40% of human workload and decreased the possibility of human error.
 * Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generate various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement.
 * Implement a scheduler for deleting some deleted data after a certain period.
-* Implement a job for inserting large datasets and notify the front end through a pusher event. 
- 
+* Implement a job for inserting large datasets and notify the front end through a pusher event.
+
 
 ### 💡 &nbsp; Skills
-* Knowledge of Object-oriented PHP programming. 
+* Knowledge of Object-oriented PHP programming.
 * Understanding of MVC design patterns.
 * Knowledge of core Laravel features like - Request life cycle, Service container, Service provider, Dependency injection, Facade.
 * Knowledge on JavaScript core concepts like scope, IIFE, Hoisting, Closures, Callbacks, Prototype and Prototypal Inheritance and ES6.
