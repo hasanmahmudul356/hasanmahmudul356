@@ -26,6 +26,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### WORKING STATUS
+<img src="https://wakatime.com/share/@ab9021b4-29d6-477a-a77e-e909b4f53f69/b2618d96-6298-4855-80d0-01c672fa5055.svg" width="50%" height="250px"/>
+
 ### :office: &nbsp;WORK HISTORY
 
 ##### **TMSS ICT Limited, Sr. Software Engineer**, 03/2019 - Present | West Kazipara, Mirpur-10, Dhaka
