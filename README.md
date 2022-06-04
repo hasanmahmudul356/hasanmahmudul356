@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### WORKING STATUS
+### WORKING STATUS | WAKATIME
 <img src="https://wakatime.com/share/@ab9021b4-29d6-477a-a77e-e909b4f53f69/d4798a60-ce94-4358-be18-2e90ddf69f68.svg" width="60%" height="300"/>
 
 ### :office: &nbsp;WORK HISTORY
